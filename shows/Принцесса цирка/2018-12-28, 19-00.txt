@@ -1,0 +1,29 @@
+<y:ticket data-session-id="NjY0fDk1NTE3fDE1MzAyMXwxNTQ2MDEyODAwMDAw" data-template="yandex-button"></y:ticket>
+
+
+
+<!-- Шаблон кнопки -->
+<script id="yandex-button" type="text/html">
+    <b style="color:#333 !important; font-size:15px !important; font-family:Arial, Helvetica Neue, Helvetica, sans-serif !important; font-weight:normal !important; line-height:36px !important; text-decoration:none !important; white-space:nowrap !important; display:inline-block !important; vertical-align:middle; background:#ffde41 !important; border-radius:2px !important; padding:0 16px !important; cursor:pointer; margin:0">Купить билет</b>
+</script>
+
+<!-- Подключение дилера -->
+
+<script>
+    /* Настройка */
+    var dealerName = 'YandexTicketsDealer';
+    var dealer = window[dealerName] = window[dealerName] || [];
+
+    dealer.push(['setDefaultClientKey', 'c3c37120-1c4a-4cd0-88b4-492d9a3a9a0a']);
+    dealer.push(['setYandexMetrika', 19609699]);
+
+    /* Загрузка */
+    (function () {
+        var rnd = '?' + new Date().getTime() * Math.random();
+        var script = document.createElement('script');
+        var target = document.getElementsByTagName('script')[0];
+        script.async = true;
+        script.src = 'https://yastatic.net/ticketier-dealer/last/dealer.js' + rnd;
+        target.parentNode.insertBefore(script, target);
+    })();
+</script>
