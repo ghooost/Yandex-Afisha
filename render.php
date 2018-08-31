@@ -5,6 +5,40 @@ $calendar=json_decode($js,TRUE);
 $js=join('',file('data/shows_work.json'));
 $shows=json_decode($js,TRUE);
 
+$options=getArgv(
+  $argv,
+  ['-s'=>'show'],
+  ['show'=>'']
+);
+//remove other shows if single one is defined
+
+$options['show']="Чудеса и куралесы";
+
+if($options['show']){
+
+  $showToBuild=$options['show'];
+
+  $newYears=[];
+  foreach($calendar as $year=>$ydata){
+    $newMonths=[];
+    foreach($ydata as $month=>$mdata){
+      $newDays=[];
+      foreach($mdata as $day=>$dshows){
+        $newShows=[];
+        foreach($dshows as $show){
+          if($show['show']==$showToBuild) $newShows[]=$show;
+        };
+        if(count($newShows)) $newDays[$day]=$newShows;
+      };
+      if(count($newDays)) $newMonths[$month]=$newDays;
+    };
+    if(count($newMonths)) $newYears[$year]=$newMonths;
+  };
+
+  $calendar=$newYears;
+
+}
+
 $month_radios=[];
 $month_labels=[];
 $month_renders=[];
@@ -197,6 +231,27 @@ EOT;
 }
 EOT;
   };
+  return $ret;
+}
+
+function getArgv($arr,$keys,$ret){
+  $gotMM=false;
+  $curKey="";
+  foreach($arr as $v)
+    if($v=='--'){
+      $gotMM=true;
+    } else if($gotMM){
+      if(!$curKey){
+        if(empty($keys[$v])){
+          die("Unrecognized key ".$v);
+        } else {
+          $curKey=$v;
+        }
+      } else {
+        $ret[$keys[$curKey]]=$v;
+        $curKey="";
+      };
+    }
   return $ret;
 }
 

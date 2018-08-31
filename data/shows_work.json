@@ -3,48 +3,56 @@
     "bgimg": "",
     "color": "#491720",
     "url": "",
-    "css":"s1"
+    "css":"s1",
+    "file":"kysia.html"
   },
   "Жизнь прекрасна!": {
-    "bgimg": "https://teamuz.ru/img/zh-t.jpg",
+    "bgimg": "https://teamuz.ru/img/me_tkts.jpg",
     "color": "#9d1a31",
     "url": "https://teamuz.ru/zhizn-prekrasna-new/",
-    "css":"s2"
+    "css":"s2",
+    "file":"gp.html"
   },
   "Реверс": {
     "bgimg": "https://teamuz.ru/img/reverse_tickets_1.jpg",
     "color": "#bdbcc6",
     "url": "https://teamuz.ru/revers",
-    "css":"s3"
+    "css":"s3",
+    "file":"revers.html"
   },
   "Чудеса и куралесы": {
     "bgimg": "https://teamuz.ru/img/ch.jpg",
     "color": "#f01d54",
     "url": "https://teamuz.ru/chudesa-i-kuralesy/",
-    "css":"s4"
+    "css":"s4",
+    "file":"chudesa.html"
   },
   "Преступление и наказание": {
     "bgimg": "https://teamuz.ru/img/pin_cal.jpg",
     "color": "#491720",
     "url": "https://teamuz.ru/prestuplenie-i-nakazanie/",
-    "css":"s5"
+    "css":"s5",
+    "file":"pin.html"
   },
-  "Сергей Мазаев": {
+  "Сергей Мазаев": {
     "bgimg": "",
     "color": "#491720",
     "url": "",
-    "css":"s6"
+    "css":"s6",
+    "file":"sermaz.html"
   },
   "Принцесса цирка": {
     "bgimg": "https://teamuz.ru/img/princess_1.jpg",
     "color": "#534cac",
     "url": "https://teamuz.ru/princessa-cirka/",
-    "css":"s7"
+    "css":"s7",
+    "file":"princess.html"
   },
   "Пассажиры": {
     "bgimg": "",
     "color": "#491720",
     "url": "",
-    "css":"s8"
+    "css":"s8",
+    "file":"pass.html"
   }
 }
