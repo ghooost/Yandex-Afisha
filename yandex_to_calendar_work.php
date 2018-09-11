@@ -4,6 +4,9 @@ $calendar=array();
 $js=join('',file('data/shows_work.json'));
 $shows=json_decode($js,TRUE);
 
+$js=join('',file('data/special.json'));
+$special=json_decode($js,TRUE);
+
 $data=downloadJson("https://api.tickets.yandex.ru/v1/export/service/103");
 
 if($data['status']=='success'){
@@ -123,8 +126,6 @@ function getArgv($arr,$keys,$ret){
 
 function renderCalendar($calendar, $shows, $showToBuild="",$fname="all.html"){
 
-
-
   if($showToBuild){
     $newYears=array();
     foreach($calendar as $year=>$ydata){
@@ -236,6 +237,7 @@ EOT;
 
 
 function renderMonth($year,$month,$mdata,$nmonth,$months,$shows){
+  global $special;
 
   $t=mktime(12,0,0,$month,1,$year);
   $w=date('N',$t);
@@ -284,6 +286,12 @@ function cmp($a,$b){
 }
 
 function renderOwnDate($d,$dateshows,$shows){
+  global $special;
+
+  //print_r($dateshows);
+
+  //print_r($special);
+
   $buttons="";
   $bgclass=null;
   $myclass="cal_d_empty";
@@ -293,6 +301,7 @@ function renderOwnDate($d,$dateshows,$shows){
   //   exit();
   // }
 
+  $note="";
   if($dateshows){
     $myclass="cal_d_own";
     usort($dateshows,'cmp');
@@ -300,6 +309,12 @@ function renderOwnDate($d,$dateshows,$shows){
       if(!empty($shows[$show['show']]) && !$bgclass){
         $bgclass=$shows[$show['show']];
       };
+
+      if($special && $special[$show['date']]){
+        if($special[$show['date']]['note']){
+          $note='<div class="cal_show"><span class="cal_show_name">'.$special[$show['date']]['note'].'</span></div>';
+        }
+      }
 
       if($show['yandexid']){
         $buttons.=<<<EOT
@@ -329,7 +344,7 @@ EOT;
   };
 
   return <<<EOT
-<li class="{$myclass}{$css}"><div class="cal_date_date">$d</div>$buttons</li>
+<li class="{$myclass}{$css}"><div class="cal_date_date">$d</div>{$note}{$buttons}</li>
 EOT;
 
 }
