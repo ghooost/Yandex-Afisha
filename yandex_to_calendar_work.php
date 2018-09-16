@@ -27,6 +27,8 @@ if($data['status']=='success'){
         }
       };
       if(!$found){
+        print_r($shows);
+	      echo ".",$showName,".\r\n";
         die("\r\nThere is no show with $event[name] in the shows_work.json\r\n");
       }
     }

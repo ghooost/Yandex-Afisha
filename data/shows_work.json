@@ -7,7 +7,7 @@
     "file":"kysia.html"
   },
   "Жизнь прекрасна!": {
-    "bgimg": "https://teamuz.ru/img/me_tkts.jpg",
+    "bgimg": "https://teamuz.ru/img/me_2_1.png",
     "color": "#9d1a31",
     "url": "https://teamuz.ru/zhizn-prekrasna-new/",
     "css":"s2",
@@ -49,9 +49,9 @@
     "file":"princess.html"
   },
   "Пассажиры": {
-    "bgimg": "",
+    "bgimg": "https://teamuz.ru/img/pass_tickets.png",
     "color": "#491720",
-    "url": "",
+    "url": "https://teamuz.ru/passengers/",
     "css":"s8",
     "file":"pass.html"
   }
