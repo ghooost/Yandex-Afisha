@@ -1,0 +1,4900 @@
+[
+  {
+    "id": 30097911,
+    "key": "NjY0fDk1NTE5fDE1MzAyMXwxNTM4NzU1MjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95519,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-05T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 515,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "5157-504464-2018-10-05T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761308"
+  },
+  {
+    "id": 30097866,
+    "key": "NjY0fDk1NTE5fDE1MzAyMXwxNTM4ODQxNjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95519,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-06T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 561,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "5157-504464-2018-10-06T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761309"
+  },
+  {
+    "id": 30097829,
+    "key": "NjY0fDk1MzI5fDE1MzAyMXwxNTM4OTEwMDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95329,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-07T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 618,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-10-07T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761350"
+  },
+  {
+    "id": 30097819,
+    "key": "NjY0fDk1NTE5fDE1MzAyMXwxNTM4OTI4MDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95519,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-07T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 626,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "5157-504464-2018-10-07T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761310"
+  },
+  {
+    "id": 30097798,
+    "key": "NjY0fDk1NTE5fDE1MzAyMXwxNTM5MTAwODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95519,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-09T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 608,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "5157-504464-2018-10-09T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761311"
+  },
+  {
+    "id": 30097812,
+    "key": "NjY0fDk1NTE5fDE1MzAyMXwxNTM5MTg3MjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95519,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-10T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 630,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "5157-504464-2018-10-10T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761312"
+  },
+  {
+    "id": 30097886,
+    "key": "NjY0fDk1NTE4fDE1MzAyMXwxNTM5MjAxNjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95518,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-10T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": false,
+    "availableSeatCount": 236,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-10-10T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "768196"
+  },
+  {
+    "id": 30097895,
+    "key": "NjY0fDk1NTE5fDE1MzAyMXwxNTM5MjczNjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95519,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-11T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 596,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "5157-504464-2018-10-11T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761313"
+  },
+  {
+    "id": 30097851,
+    "key": "NjY0fDk1NTE5fDE1MzAyMXwxNTM5MzYwMDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95519,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-12T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": false,
+    "availableSeatCount": 706,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "5157-504464-2018-10-12T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761314"
+  },
+  {
+    "id": 30097845,
+    "key": "NjY0fDk1NTE4fDE1MzAyMXwxNTM5Mzc0NDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95518,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-12T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": false,
+    "availableSeatCount": 223,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-10-12T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761344"
+  },
+  {
+    "id": 30097835,
+    "key": "NjY0fDk1MzI5fDE1MzAyMXwxNTM5NDI4NDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95329,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-13T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 675,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-10-13T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761351"
+  },
+  {
+    "id": 30097878,
+    "key": "NjY0fDk1NTE5fDE1MzAyMXwxNTM5NDQ2NDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95519,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-13T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 540,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "5157-504464-2018-10-13T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761319"
+  },
+  {
+    "id": 30097808,
+    "key": "NjY0fDk1NTE4fDE1MzAyMXwxNTM5NDYwODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95518,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-13T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 178,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-10-13T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761345"
+  },
+  {
+    "id": 30097822,
+    "key": "NjY0fDk1MzI5fDE1MzAyMXwxNTM5NTE0ODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95329,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-14T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 621,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-10-14T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761352"
+  },
+  {
+    "id": 30097825,
+    "key": "NjY0fDk1NTE5fDE1MzAyMXwxNTM5NTMyODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95519,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-14T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 642,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "5157-504464-2018-10-14T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761320"
+  },
+  {
+    "id": 30097841,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQwMDUxMjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-20T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 549,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-10-20T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761322"
+  },
+  {
+    "id": 30338935,
+    "key": "NjY0fDExMzU0MXwxNTMwMjF8MTU0MDA2NTYwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113541,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-20T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 214,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-10-20T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782926"
+  },
+  {
+    "id": 30097914,
+    "key": "NjY0fDk3ODAwfDE1MzAyMXwxNTQwMTE5NjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 97800,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-21T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 660,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-10-21T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "777297"
+  },
+  {
+    "id": 30097850,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQwMTM3NjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-21T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 672,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-10-21T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761323"
+  },
+  {
+    "id": 30097918,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQwMzEwNDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-23T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 679,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-10-23T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761324"
+  },
+  {
+    "id": 30097800,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQwMzk2ODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-24T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 696,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-10-24T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761325"
+  },
+  {
+    "id": 30097852,
+    "key": "NjY0fDk1NTE4fDE1MzAyMXwxNTQwNDExMjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95518,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-24T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 222,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-10-24T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "768197"
+  },
+  {
+    "id": 30097809,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQwNDgzMjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-25T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 701,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-10-25T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761326"
+  },
+  {
+    "id": 30097818,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQwNTY5NjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-26T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 648,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-10-26T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761327"
+  },
+  {
+    "id": 30338926,
+    "key": "NjY0fDExMzQ4OXwxNTMwMjF8MTU0MDU4NDAwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113489,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-26T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 220,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-10-26T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782928"
+  },
+  {
+    "id": 30097898,
+    "key": "NjY0fDk3ODAwfDE1MzAyMXwxNTQwNjM4MDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 97800,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-27T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 679,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-10-27T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "777246"
+  },
+  {
+    "id": 30097868,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQwNjU2MDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-27T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 641,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-10-27T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761328"
+  },
+  {
+    "id": 30338920,
+    "key": "NjY0fDExMzUxOXwxNTMwMjF8MTU0MDY3MDQwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113519,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-27T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 224,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-10-27T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782929"
+  },
+  {
+    "id": 30097855,
+    "key": "NjY0fDk3ODAwfDE1MzAyMXwxNTQwNzI0NDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 97800,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-28T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 703,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-10-28T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "777249"
+  },
+  {
+    "id": 30097888,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQwNzQyNDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-28T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 698,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-10-28T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761329"
+  },
+  {
+    "id": 30097905,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQwOTE1MjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-30T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 704,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-10-30T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761330"
+  },
+  {
+    "id": 30097793,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQxMDAxNjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-31T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 713,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-10-31T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761331"
+  },
+  {
+    "id": 30097871,
+    "key": "NjY0fDk1NTE4fDE1MzAyMXwxNTQxMDE2MDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95518,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-10-31T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 236,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-10-31T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "768198"
+  },
+  {
+    "id": 30097830,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQxMDg4MDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-01T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 712,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-11-01T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761332"
+  },
+  {
+    "id": 30379045,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQxMTc0NDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-02T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 700,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-11-02T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761333"
+  },
+  {
+    "id": 30338921,
+    "key": "NjY0fDExMzU0NnwxNTMwMjF8MTU0MTE4ODgwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113546,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-02T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 238,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-11-02T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782930"
+  },
+  {
+    "id": 30097902,
+    "key": "NjY0fDk3ODAwfDE1MzAyMXwxNTQxMjQyODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 97800,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-03T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 667,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-11-03T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "777272"
+  },
+  {
+    "id": 30097863,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQxMjYwODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-03T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 677,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-11-03T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761334"
+  },
+  {
+    "id": 30338923,
+    "key": "NjY0fDExMzQ4MnwxNTMwMjF8MTU0MTI3NTIwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113482,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-03T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 238,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-11-03T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782927"
+  },
+  {
+    "id": 30097860,
+    "key": "NjY0fDk3ODAwfDE1MzAyMXwxNTQxMzI5MjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 97800,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-04T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 716,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-11-04T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "777276"
+  },
+  {
+    "id": 30097881,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQxMzQ3MjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-04T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 703,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-11-04T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761335"
+  },
+  {
+    "id": 30338930,
+    "key": "NjY0fDExMzQ3OXwxNTMwMjF8MTU0MTM2MTYwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113479,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-04T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 233,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-11-04T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782931"
+  },
+  {
+    "id": 30097885,
+    "key": "NjY0fDk3ODAwfDE1MzAyMXwxNTQxNDE1NjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 97800,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-05T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 674,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-11-05T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "777289"
+  },
+  {
+    "id": 30097890,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQxNDMzNjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-05T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 712,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-11-05T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761336"
+  },
+  {
+    "id": 30097817,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQxNjA2NDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-07T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 716,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-11-07T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761337"
+  },
+  {
+    "id": 30097828,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQxNjkyODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-08T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 695,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-11-08T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761338"
+  },
+  {
+    "id": 30097837,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQxNzc5MjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-09T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 693,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-11-09T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761339"
+  },
+  {
+    "id": 30338917,
+    "key": "NjY0fDExMzUyM3wxNTMwMjF8MTU0MTc5MzYwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113523,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-09T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 237,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-11-09T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782932"
+  },
+  {
+    "id": 30097913,
+    "key": "NjY0fDk3ODAwfDE1MzAyMXwxNTQxODQ3NjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 97800,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-10T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 712,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-11-10T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "777294"
+  },
+  {
+    "id": 30097849,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQxODY1NjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-10T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 690,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-11-10T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761340"
+  },
+  {
+    "id": 30338919,
+    "key": "NjY0fDExMzUzN3wxNTMwMjF8MTU0MTg4MDAwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113537,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-10T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 238,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-11-10T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782933"
+  },
+  {
+    "id": 30097870,
+    "key": "NjY0fDk3ODAwfDE1MzAyMXwxNTQxOTM0MDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 97800,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-11T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 716,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-11-11T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "777265"
+  },
+  {
+    "id": 30097897,
+    "key": "NjY0fDk1NTIwfDE1MzAyMXwxNTQxOTUyMDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95520,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-11T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 709,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "22850-504464-2018-11-11T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761341"
+  },
+  {
+    "id": 30097848,
+    "key": "NjY0fDk3ODAwfDE1MzAyMXwxNTQyNDUyNDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 97800,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-17T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 716,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-11-17T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "777270"
+  },
+  {
+    "id": 30338933,
+    "key": "NjY0fDExMzQ5MnwxNTMwMjF8MTU0MjQ4NDgwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113492,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-17T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 232,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-11-17T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782934"
+  },
+  {
+    "id": 30097877,
+    "key": "NjY0fDk3ODAwfDE1MzAyMXwxNTQyNTM4ODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 97800,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-18T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 716,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-11-18T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "777283"
+  },
+  {
+    "id": 30338927,
+    "key": "NjY0fDExMzUxMHwxNTMwMjF8MTU0MzAwMzIwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113510,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-23T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": false,
+    "sourceEventId": "52088-504464-2018-11-23T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782935"
+  },
+  {
+    "id": 30097861,
+    "key": "NjY0fDk3ODAwfDE1MzAyMXwxNTQzMDU3MjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 97800,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-24T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": false,
+    "availableSeatCount": 714,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-11-24T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "777287"
+  },
+  {
+    "id": 30338918,
+    "key": "NjY0fDExMzQ2OXwxNTMwMjF8MTU0MzA4OTYwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113469,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-24T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": false,
+    "availableSeatCount": 238,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-11-24T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782936"
+  },
+  {
+    "id": 30097884,
+    "key": "NjY0fDk3ODAwfDE1MzAyMXwxNTQzMTQzNjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 97800,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-25T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 711,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-11-25T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "777244"
+  },
+  {
+    "id": 30338922,
+    "key": "NjY0fDExMzUzMXwxNTMwMjF8MTU0MzYwODAwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113531,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-11-30T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 238,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-11-30T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782937"
+  },
+  {
+    "id": 30338932,
+    "key": "NjY0fDExMzQ2OHwxNTMwMjF8MTU0MzY5NDQwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113468,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-01T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 238,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-12-01T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782938"
+  },
+  {
+    "id": 30097859,
+    "key": "NjY0fDk1NTIyfDE1MzAyMXwxNTQ0MjAyMDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95522,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-07T20:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 180000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 340000
+      },
+      {
+        "currency_code": "rub",
+        "value": 300000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 220000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1300000
+      },
+      {
+        "currency_code": "rub",
+        "value": 600000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      },
+      {
+        "currency_code": "rub",
+        "value": 800000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 889,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "6738-547709-2018-12-07T17:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "547709",
+    "sourceSessionId": "746808"
+  },
+  {
+    "id": 30097811,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ0NTQ0MDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-11T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 694,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-11T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766085"
+  },
+  {
+    "id": 30097844,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ0NjMwNDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-12T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 704,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-12T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766076"
+  },
+  {
+    "id": 30097867,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ0NzE2ODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-13T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 700,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-13T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766090"
+  },
+  {
+    "id": 30097873,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ0ODAzMjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-14T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 619,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-14T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766092"
+  },
+  {
+    "id": 30338928,
+    "key": "NjY0fDExMzU2NXwxNTMwMjF8MTU0NDgxNzYwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113565,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-14T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 236,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-12-14T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782940"
+  },
+  {
+    "id": 30097827,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ0ODcxNjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-15T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 484,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-15T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766093"
+  },
+  {
+    "id": 30097893,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ0ODg5NjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-15T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 586,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-15T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766077"
+  },
+  {
+    "id": 30338929,
+    "key": "NjY0fDExMzUzOXwxNTMwMjF8MTU0NDkwNDAwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113539,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-15T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 238,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-12-15T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782939"
+  },
+  {
+    "id": 30097908,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ0OTc2MDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-16T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 683,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-16T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766079"
+  },
+  {
+    "id": 30097832,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ1MTQ4ODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-18T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 712,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-18T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766095"
+  },
+  {
+    "id": 30097834,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ1MjM1MjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-19T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 711,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-19T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766096"
+  },
+  {
+    "id": 30097856,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ1MzIxNjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-20T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 697,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-20T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766094"
+  },
+  {
+    "id": 30097880,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ1NDA4MDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-21T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 712,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-21T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766080"
+  },
+  {
+    "id": 30097909,
+    "key": "NjY0fDk1NTE4fDE1MzAyMXwxNTQ1NDIyNDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95518,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-21T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 238,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-12-21T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761346"
+  },
+  {
+    "id": 30097917,
+    "key": "NjY0fDk1MzI5fDE1MzAyMXwxNTQ1NDc2NDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95329,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-22T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 626,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-12-22T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761353"
+  },
+  {
+    "id": 30097912,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ1NDk0NDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-22T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 677,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-22T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766082"
+  },
+  {
+    "id": 30097876,
+    "key": "NjY0fDk1NTE4fDE1MzAyMXwxNTQ1NTA4ODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95518,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-22T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 238,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-12-22T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761347"
+  },
+  {
+    "id": 30097889,
+    "key": "NjY0fDk1MzI5fDE1MzAyMXwxNTQ1NTYyODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95329,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-23T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 465,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-12-23T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761354"
+  },
+  {
+    "id": 30097804,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ1NTgwODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-23T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 710,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-23T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766099"
+  },
+  {
+    "id": 30097824,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ1NzUzNjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-25T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 712,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-25T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766101"
+  },
+  {
+    "id": 30097840,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ1ODQwMDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-26T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 706,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-26T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766102"
+  },
+  {
+    "id": 30097883,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ1OTI2NDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-27T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 696,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-27T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766103"
+  },
+  {
+    "id": 30097896,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ2MDEyODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-28T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 713,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-28T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766100"
+  },
+  {
+    "id": 30097907,
+    "key": "NjY0fDk1MzI5fDE1MzAyMXwxNTQ2MDgxMjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95329,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-29T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 639,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-12-29T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761355"
+  },
+  {
+    "id": 30097900,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ2MDk5MjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-29T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 699,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-29T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766097"
+  },
+  {
+    "id": 30097875,
+    "key": "NjY0fDk1NTE4fDE1MzAyMXwxNTQ2MTEzNjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95518,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-29T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 238,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-12-29T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761348"
+  },
+  {
+    "id": 30097814,
+    "key": "NjY0fDk1MzI5fDE1MzAyMXwxNTQ2MTY3NjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95329,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-30T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 637,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-12-30T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761356"
+  },
+  {
+    "id": 30097796,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ2MTg1NjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-30T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 690,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-30T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766106"
+  },
+  {
+    "id": 30097864,
+    "key": "NjY0fDk1NTE4fDE1MzAyMXwxNTQ2MjAwMDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95518,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-30T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 238,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2018-12-30T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761349"
+  },
+  {
+    "id": 30338916,
+    "key": "NjY0fDExMzQ3NXwxNTMwMjF8MTU0NjI1MDQwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113475,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-31T13:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 713,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2018-12-31T10:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782947"
+  },
+  {
+    "id": 30097862,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ2MjY4NDAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2018-12-31T18:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 602,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2018-12-31T15:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766107"
+  },
+  {
+    "id": 30097865,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ2NDQ0ODAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2019-01-02T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 684,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2019-01-02T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766108"
+  },
+  {
+    "id": 30338925,
+    "key": "NjY0fDExMzQ3NnwxNTMwMjF8MTU0NjQ1OTIwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113476,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2019-01-02T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 238,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2019-01-02T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782942"
+  },
+  {
+    "id": 30097882,
+    "key": "NjY0fDk1MzI5fDE1MzAyMXwxNTQ2NTEzMjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95329,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2019-01-03T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 602,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2019-01-03T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761357"
+  },
+  {
+    "id": 30097872,
+    "key": "NjY0fDk1NTE3fDE1MzAyMXwxNTQ2NTMxMjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95517,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2019-01-03T19:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 1000000
+      },
+      {
+        "currency_code": "rub",
+        "value": 350000
+      },
+      {
+        "currency_code": "rub",
+        "value": 290000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 500000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 691,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "26445-504464-2019-01-03T16:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "766105"
+  },
+  {
+    "id": 30338924,
+    "key": "NjY0fDExMzU1OXwxNTMwMjF8MTU0NjU0NTYwMDAwMA==",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 113559,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2019-01-03T23:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 150000
+      },
+      {
+        "currency_code": "rub",
+        "value": 100000
+      },
+      {
+        "currency_code": "rub",
+        "value": 400000
+      },
+      {
+        "currency_code": "rub",
+        "value": 200000
+      },
+      {
+        "currency_code": "rub",
+        "value": 250000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 238,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "52088-504464-2019-01-03T20:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "782943"
+  },
+  {
+    "id": 30097910,
+    "key": "NjY0fDk1MzI5fDE1MzAyMXwxNTQ2NTk5NjAwMDAw",
+    "regionId": 213,
+    "eventType": "other",
+    "eventId": 95329,
+    "venueId": 664,
+    "hallId": 153021,
+    "dateTime": "2019-01-04T14:00+03:00",
+    "formats": [],
+    "prices": [
+      {
+        "currency_code": "rub",
+        "value": 160000
+      },
+      {
+        "currency_code": "rub",
+        "value": 110000
+      },
+      {
+        "currency_code": "rub",
+        "value": 70000
+      },
+      {
+        "currency_code": "rub",
+        "value": 50000
+      },
+      {
+        "currency_code": "rub",
+        "value": 450000
+      },
+      {
+        "currency_code": "rub",
+        "value": 310000
+      },
+      {
+        "currency_code": "rub",
+        "value": 260000
+      },
+      {
+        "currency_code": "rub",
+        "value": 210000
+      }
+    ],
+    "saleAvailable": true,
+    "availableSeatCount": 615,
+    "hasAdmissionLevel": false,
+    "sourceEventId": "44631-504464-2019-01-04T11:00:00.000Z",
+    "sourceVenueId": "2923",
+    "sourceHallId": "504464",
+    "sourceSessionId": "761358"
+  }
+]

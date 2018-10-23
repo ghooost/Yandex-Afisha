@@ -1,0 +1,332 @@
+[
+  {
+    "id": 95329,
+    "name": "Спектакль: Чудеса и куралесы",
+    "eventType": "other",
+    "eventTypeDescription": "Спектакль",
+    "ageRestriction": 6,
+    "bindings": {
+      "ext-event": "775226"
+    },
+    "sourceEventId": "44631-504464-2019-01-08T11:00:00.000Z"
+  },
+  {
+    "id": 95517,
+    "name": "Спектакль: Принцесса цирка",
+    "eventType": "other",
+    "eventTypeDescription": "Спектакль",
+    "ageRestriction": 12,
+    "bindings": {
+      "ext-event": "763005"
+    },
+    "sourceEventId": "26445-504464-2019-01-08T16:00:00.000Z"
+  },
+  {
+    "id": 95518,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Спектакль",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "763617"
+    },
+    "sourceEventId": "52088-504464-2018-12-30T20:00:00.000Z"
+  },
+  {
+    "id": 95519,
+    "name": "Спектакль: Жизнь прекрасна!",
+    "eventType": "other",
+    "eventTypeDescription": "Спектакль",
+    "ageRestriction": 12,
+    "bindings": {
+      "ext-event": "775257"
+    },
+    "sourceEventId": "5157-504464-2018-10-14T16:00:00.000Z"
+  },
+  {
+    "id": 95520,
+    "name": "Спектакль: Преступление и наказание",
+    "eventType": "other",
+    "eventTypeDescription": "Спектакль",
+    "ageRestriction": 16,
+    "bindings": {
+      "ext-event": "763308"
+    },
+    "sourceEventId": "22850-504464-2018-11-11T16:00:00.000Z"
+  },
+  {
+    "id": 95522,
+    "name": "Концерт: Сергей Мазаев",
+    "eventType": "other",
+    "eventTypeDescription": "Концерт",
+    "ageRestriction": 6,
+    "bindings": {
+      "ext-event": "765076"
+    },
+    "sourceEventId": "6738-547709-2018-12-07T17:00:00.000Z"
+  },
+  {
+    "id": 95936,
+    "name": "Спектакль: Пассажиры",
+    "eventType": "other",
+    "eventTypeDescription": "Спектакль",
+    "ageRestriction": 6,
+    "bindings": {
+      "ext-event": "795044"
+    },
+    "sourceEventId": "61511-504464-2019-02-09T16:00:00.000Z"
+  },
+  {
+    "id": 97800,
+    "name": "Спектакль: Чудеса и куралесы",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 6,
+    "bindings": {
+      "ext-event": "821826"
+    },
+    "sourceEventId": "44631-504464-2018-11-25T11:00:00.000Z"
+  },
+  {
+    "id": 113468,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "851946"
+    },
+    "sourceEventId": "52088-504464-2018-12-01T20:00:00.000Z"
+  },
+  {
+    "id": 113469,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "851947"
+    },
+    "sourceEventId": "52088-504464-2018-11-24T20:00:00.000Z"
+  },
+  {
+    "id": 113475,
+    "name": "Спектакль: Чудеса и куралесы",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 6,
+    "bindings": {
+      "ext-event": "851953"
+    },
+    "sourceEventId": "44631-504464-2018-12-31T10:00:00.000Z"
+  },
+  {
+    "id": 113476,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "851954"
+    },
+    "sourceEventId": "52088-504464-2019-01-02T20:00:00.000Z"
+  },
+  {
+    "id": 113479,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "851957"
+    },
+    "sourceEventId": "52088-504464-2018-11-04T20:00:00.000Z"
+  },
+  {
+    "id": 113482,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "851960"
+    },
+    "sourceEventId": "52088-504464-2018-11-03T20:00:00.000Z"
+  },
+  {
+    "id": 113489,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "851967"
+    },
+    "sourceEventId": "52088-504464-2018-10-26T20:00:00.000Z"
+  },
+  {
+    "id": 113491,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "851969"
+    },
+    "sourceEventId": "52088-504464-2019-01-04T20:00:00.000Z"
+  },
+  {
+    "id": 113492,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "851970"
+    },
+    "sourceEventId": "52088-504464-2018-11-17T20:00:00.000Z"
+  },
+  {
+    "id": 113510,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "851988"
+    },
+    "sourceEventId": "52088-504464-2018-11-23T20:00:00.000Z"
+  },
+  {
+    "id": 113517,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "851995"
+    },
+    "sourceEventId": "52088-504464-2019-01-05T20:00:00.000Z"
+  },
+  {
+    "id": 113519,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "851997"
+    },
+    "sourceEventId": "52088-504464-2018-10-27T20:00:00.000Z"
+  },
+  {
+    "id": 113523,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "852001"
+    },
+    "sourceEventId": "52088-504464-2018-11-09T20:00:00.000Z"
+  },
+  {
+    "id": 113528,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "852006"
+    },
+    "sourceEventId": "52088-504464-2019-01-07T20:00:00.000Z"
+  },
+  {
+    "id": 113531,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "852009"
+    },
+    "sourceEventId": "52088-504464-2018-11-30T20:00:00.000Z"
+  },
+  {
+    "id": 113536,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "852014"
+    },
+    "sourceEventId": "52088-504464-2019-01-06T20:00:00.000Z"
+  },
+  {
+    "id": 113537,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "852015"
+    },
+    "sourceEventId": "52088-504464-2018-11-10T20:00:00.000Z"
+  },
+  {
+    "id": 113539,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "852017"
+    },
+    "sourceEventId": "52088-504464-2018-12-15T20:00:00.000Z"
+  },
+  {
+    "id": 113541,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "852019"
+    },
+    "sourceEventId": "52088-504464-2018-10-20T20:00:00.000Z"
+  },
+  {
+    "id": 113546,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "852024"
+    },
+    "sourceEventId": "52088-504464-2018-11-02T20:00:00.000Z"
+  },
+  {
+    "id": 113559,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "852037"
+    },
+    "sourceEventId": "52088-504464-2019-01-03T20:00:00.000Z"
+  },
+  {
+    "id": 113565,
+    "name": "Спектакль: Реверс",
+    "eventType": "other",
+    "eventTypeDescription": "Событие",
+    "ageRestriction": 18,
+    "bindings": {
+      "ext-event": "852043"
+    },
+    "sourceEventId": "52088-504464-2018-12-14T20:00:00.000Z"
+  }
+]

@@ -1,3 +1,7 @@
+<html>
+<head>
+ <meta name="robots" content="noindex" />
+<body>
 <?php
 $calendar=array();
 
@@ -10,7 +14,8 @@ $special=json_decode($js,TRUE);
 $data=downloadJson("https://api.tickets.yandex.ru/v1/export/service/103");
 
 if($data['status']=='success'){
-  //echo "\r\nStage 1 done\r\n";
+  //echo "\r\nData from Yandex<Br>\r\n";
+
   //get events
   $eventsIndex=array();
   foreach($data['result']['events'] as $events){
@@ -41,6 +46,8 @@ if($data['status']=='success'){
         $show=$eventsIndex[$session['eventId']]['name'];
         $shows[$show]['noticed']=TRUE;
         $yandexid=$session['key'];
+        if(!empty($special[$yandexid])) continue;
+        
         if(preg_match('/^(\d+)-0*(\d+)-0*(\d+)T(\d+:\d+)/',$session['dateTime'],$vars)){
           $year=$vars[1];
           $month=$vars[2];
@@ -63,6 +70,8 @@ if($data['status']=='success'){
 } else {
   die('There is no success in the start link download!\r\n');
 }
+
+echo "<h2>Calendar compiled</h2><xmp>".print_r($calendar,true)."</xmp>\r\n";
 
 //echo json_encode($calendar,JSON_UNESCAPED_UNICODE);
 //exit();
@@ -92,6 +101,7 @@ function downloadJson($url){
   );
   curl_setopt($ch,CURLOPT_RETURNTRANSFER,TRUE);
   $output=curl_exec($ch);
+  echo "<h3>Yandex data: [secret URL removed]</h3><hr>\r\n\r\n".$output."\r\n\r\n<br>";
   curl_close($ch);
   return json_decode($output,TRUE);
 }
@@ -373,3 +383,4 @@ EOT;
 }
 
 ?>
+</body></html>
