@@ -13,6 +13,13 @@
     "css":"s2",
     "file":"gp.html"
   },
+  "РЕВЕРС": {
+    "bgimg": "https://teamuz.ru/img/reverse_tickets_1.jpg",
+    "color": "#bdbcc6",
+    "url": "https://teamuz.ru/revers",
+    "css":"s3",
+    "file":"revers.html"
+  },
   "Реверс": {
     "bgimg": "https://teamuz.ru/img/reverse_tickets_1.jpg",
     "color": "#bdbcc6",
