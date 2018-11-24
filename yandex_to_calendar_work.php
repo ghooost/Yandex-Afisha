@@ -2,7 +2,11 @@
 <head>
  <meta name="robots" content="noindex" />
 <body>
+  Заблокировано.
+</body>
+</html>
 <?php
+exit();
 $calendar=array();
 
 $js=join('',file('data/shows_work.json'));
@@ -47,7 +51,7 @@ if($data['status']=='success'){
         $shows[$show]['noticed']=TRUE;
         $yandexid=$session['key'];
         if(!empty($special[$yandexid])) continue;
-        
+
         if(preg_match('/^(\d+)-0*(\d+)-0*(\d+)T(\d+:\d+)/',$session['dateTime'],$vars)){
           $year=$vars[1];
           $month=$vars[2];

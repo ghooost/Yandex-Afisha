@@ -61,5 +61,13 @@
     "url": "https://teamuz.ru/passengers/",
     "css":"s8",
     "file":"pass.html"
+  },
+  "Всё о Золушке": {
+    "bgimg": "https://teamuz.ru/img/zolka_tickets_1.jpg",
+    "color": "#820263",
+    "url": "https://teamuz.ru/vse-o-zolushke/",
+    "css":"s9",
+    "file":"zol.html"
   }
+
 }

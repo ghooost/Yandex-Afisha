@@ -42,9 +42,10 @@ foreach($arr as $cnt=>$str){
 echo "<h2>Calendar compiled</h2><xmp>".print_r($calendar,true)."</xmp>\r\n";
 
 renderCalendar($calendar, $shows);
+
 foreach($shows as $k=>$v)
-  if($v['noticed'])
-    renderCalendar($calendar, $shows,$k,$v['file']);
+  renderCalendar($calendar, $shows,$k,$v['file']);
+  //if($v['noticed'])
 
 echo "DONE!\r\n";
 
@@ -193,6 +194,41 @@ $styles
 <!-- Подключение дилера -->
 
 <script>
+    (function() {
+      var d=new Date();
+      var dataMon=d.getFullYear()+'-'+(d.getMonth()+1);
+      var dataDay=d.getDate();
+      var dataHour=d.getHours();
+      var list=document.querySelectorAll('.cal_month[data-month="'+dataMon+'"] .cal_d_own');
+      for(var cnt=0,m=list.length;cnt<m;cnt++){
+        var day=parseInt(list[cnt].getAttribute('data-day'));
+        if(day && day<dataDay){
+          shoutDate(list[cnt],day);
+        } else if(day && day==dataDay){
+          var evnts=list[cnt].querySelectorAll('.cal_show');
+          var nEvnts=0;
+          for(var cnt1=0,m1=evnts.length;cnt1<m1;cnt1++){
+            var hour=parseInt(evnts[cnt1].getAttribute('data-hour'));
+            if(hour && hour<dataHour){
+              evnts[cnt1].parentNode.removeChild(evnts[cnt1]);
+            } else {
+              nEvnts++;
+            }
+          }
+          if(!nEvnts){
+            shoutDate(list[cnt],day);
+          }
+        }
+      }
+
+      function shoutDate(obj,day){
+        obj.className='cal_d_empty';
+        obj.innerHTML='<div class="cal_date_date">'+day+'</div>';
+      }
+
+    })();
+
+
     /* Настройка */
     var dealerName = 'YandexTicketsDealer';
     var dealer = window[dealerName] = window[dealerName] || [];
@@ -252,7 +288,7 @@ function renderMonth($year,$month,$mdata,$nmonth,$months,$shows){
     </label>
 </div>
 
-<ul class="cal_month cal_m_{$nmonth}">$out</ul>
+<ul class="cal_month cal_m_{$nmonth}" data-month="{$year}-{$month}">$out</ul>
 EOT;
 }
 
@@ -303,8 +339,9 @@ function renderOwnDate($d,$dateshows,$shows){
       }
 
       if($show['yandexid']){
+        $timeParts=explode(':',$show['time']);
         $buttons.=<<<EOT
-<div class="cal_show">
+<div class="cal_show" data-hour="{$timeParts[0]}">
 <span class="cal_show_time">$show[time]</span><span class="cal_show_name">$show[show]</span>
 <y:ticket data-session-id="$show[yandexid]" data-template="yandex-button"></y:ticket>
 </div>
@@ -330,7 +367,7 @@ EOT;
   };
 
   return <<<EOT
-<li class="{$myclass}{$css}"><div class="cal_date_date">$d</div>{$note}{$buttons}</li>
+<li class="{$myclass}{$css}" data-day="$d"><div class="cal_date_date">$d</div>{$note}{$buttons}</li>
 EOT;
 
 }
